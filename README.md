@@ -7,6 +7,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
@@ -15,6 +16,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
@@ -22,6 +24,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
