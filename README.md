@@ -37,6 +37,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0125-valid-palindrome](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -89,6 +91,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
