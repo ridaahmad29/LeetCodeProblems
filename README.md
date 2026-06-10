@@ -46,6 +46,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -59,6 +60,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0344-reverse-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -81,6 +83,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
