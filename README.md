@@ -12,6 +12,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1991-find-the-middle-index-in-array) |
@@ -133,6 +134,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Enumeration
 |  |
 | ------- |
