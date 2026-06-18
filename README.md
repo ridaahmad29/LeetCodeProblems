@@ -51,6 +51,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
