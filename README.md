@@ -18,6 +18,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1991-find-the-middle-index-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -50,6 +51,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
@@ -65,6 +67,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
 | ------- |
