@@ -42,6 +42,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -116,6 +117,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
