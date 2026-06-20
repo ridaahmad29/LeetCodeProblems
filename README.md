@@ -23,6 +23,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -56,6 +57,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
@@ -130,6 +132,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 ## Queue
 |  |
 | ------- |
