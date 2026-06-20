@@ -20,6 +20,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -39,6 +40,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
