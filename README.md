@@ -17,6 +17,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1991-find-the-middle-index-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -112,6 +113,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
@@ -137,6 +139,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 ## Queue
@@ -171,4 +174,8 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2951-find-the-peaks) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
