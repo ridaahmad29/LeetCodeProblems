@@ -8,6 +8,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +127,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
