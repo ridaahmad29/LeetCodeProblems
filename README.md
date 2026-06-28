@@ -13,6 +13,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
@@ -155,6 +156,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
@@ -201,4 +203,16 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
