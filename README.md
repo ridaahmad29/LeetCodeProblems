@@ -8,6 +8,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
@@ -162,6 +163,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
