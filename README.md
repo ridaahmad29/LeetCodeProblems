@@ -227,4 +227,8 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
