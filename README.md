@@ -230,5 +230,10 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
