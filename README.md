@@ -165,6 +165,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2729-check-if-the-number-is-fascinating](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
