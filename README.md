@@ -58,6 +58,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -286,6 +287,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
