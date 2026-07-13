@@ -80,6 +80,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
@@ -284,6 +285,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
