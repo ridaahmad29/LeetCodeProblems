@@ -177,6 +177,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -258,6 +259,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
