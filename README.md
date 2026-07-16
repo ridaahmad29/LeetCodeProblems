@@ -121,6 +121,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
@@ -313,6 +314,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
