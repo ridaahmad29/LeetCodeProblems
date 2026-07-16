@@ -140,6 +140,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0541-reverse-string-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -321,6 +322,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0234-palindrome-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Depth-First Search
