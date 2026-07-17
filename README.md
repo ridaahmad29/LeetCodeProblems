@@ -58,6 +58,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -137,6 +138,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -173,6 +175,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
