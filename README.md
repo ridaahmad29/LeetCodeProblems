@@ -30,6 +30,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -183,6 +184,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -272,6 +274,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
