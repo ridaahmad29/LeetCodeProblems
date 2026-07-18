@@ -21,6 +21,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -337,6 +338,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -360,6 +362,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
