@@ -337,6 +337,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -353,9 +354,15 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0155-min-stack](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
