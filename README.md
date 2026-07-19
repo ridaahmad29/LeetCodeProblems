@@ -15,6 +15,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0128-longest-consecutive-sequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
@@ -164,6 +165,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
@@ -357,6 +359,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
