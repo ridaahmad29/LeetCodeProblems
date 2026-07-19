@@ -15,6 +15,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0128-longest-consecutive-sequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
