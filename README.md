@@ -27,6 +27,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
@@ -308,6 +309,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -344,6 +346,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -369,6 +372,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
