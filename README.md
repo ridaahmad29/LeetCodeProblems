@@ -190,6 +190,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0492-construct-the-rectangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
