@@ -33,6 +33,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -193,6 +195,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0492-construct-the-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0492-construct-the-rectangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -228,6 +231,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0203-remove-linked-list-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Merge Sort
 |  |
 | ------- |
