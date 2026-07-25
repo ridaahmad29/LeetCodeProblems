@@ -281,11 +281,13 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -303,6 +305,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0002-add-two-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0061-rotate-list) |
@@ -351,6 +354,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0148-sort-list) |
 ## Stack
 |  |
