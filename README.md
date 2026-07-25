@@ -205,6 +205,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -230,6 +231,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
