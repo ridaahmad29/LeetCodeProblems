@@ -402,6 +402,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -437,12 +438,18 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
