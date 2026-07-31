@@ -19,6 +19,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
@@ -101,6 +102,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0160-intersection-of-two-linked-lists](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
@@ -135,6 +137,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0234-palindrome-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0541-reverse-string-ii) |
@@ -241,6 +244,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -284,6 +288,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 ## Enumeration
