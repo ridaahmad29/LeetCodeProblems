@@ -60,6 +60,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
@@ -119,6 +120,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [3120-count-the-number-of-special-characters-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |
