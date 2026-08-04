@@ -503,4 +503,5 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0175-combine-two-tables) |
+| [0620-not-boring-movies](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
