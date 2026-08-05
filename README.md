@@ -505,6 +505,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0175-combine-two-tables](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
