@@ -429,6 +429,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -473,6 +474,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0144-binary-tree-preorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0144-binary-tree-preorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -511,4 +514,8 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0183-customers-who-never-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0620-not-boring-movies) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
