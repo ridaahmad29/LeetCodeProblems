@@ -550,6 +550,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1068-product-sales-analysis-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
