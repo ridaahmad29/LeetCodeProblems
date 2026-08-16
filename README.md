@@ -457,6 +457,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -513,6 +514,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -541,6 +543,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -596,4 +599,5 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
