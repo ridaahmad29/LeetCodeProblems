@@ -32,6 +32,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -75,6 +76,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -86,6 +88,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2073-time-needed-to-buy-tickets) |
