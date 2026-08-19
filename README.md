@@ -38,6 +38,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -123,6 +124,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -214,6 +216,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -307,6 +310,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 ## Binary Search
 |  |
 | ------- |
