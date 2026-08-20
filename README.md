@@ -62,6 +62,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2951-find-the-peaks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -96,6 +97,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
