@@ -51,6 +51,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [2073-time-needed-to-buy-tickets](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -127,6 +128,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -295,6 +297,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0383-ransom-note](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Sliding Window
 |  |
@@ -313,6 +316,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0222-count-complete-tree-nodes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
