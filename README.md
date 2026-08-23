@@ -1,5 +1,13 @@
 # LeetCodeProblems
-A collection of my LeetCode solutions, organized by topic and difficulty, with clean code, explanations, and optimized approaches.
+A collection of my LeetCode solutions, organized by topic and difficulty, with clean code, explanations, and optimized approaches
+
+## LeetCode Profile
+🔗 [View my LeetCode Profile](https://leetcode.com/ridaahmad29)
+
+
+#Progress 
+300+ LeetCode Problems Solved
+Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion , Stack and Queues.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
