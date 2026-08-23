@@ -202,6 +202,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -228,6 +229,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
@@ -244,6 +246,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -636,4 +639,8 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
