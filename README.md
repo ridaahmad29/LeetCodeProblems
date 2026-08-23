@@ -484,6 +484,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0404-sum-of-left-leaves](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
@@ -542,6 +543,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0257-binary-tree-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -574,6 +576,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | [0257-binary-tree-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -636,6 +639,7 @@ A collection of my LeetCode solutions, organized by topic and difficulty, with c
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
