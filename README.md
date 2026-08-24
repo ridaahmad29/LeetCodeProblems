@@ -494,6 +494,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
@@ -556,6 +557,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0404-sum-of-left-leaves](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -592,6 +594,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0404-sum-of-left-leaves](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -658,6 +661,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
