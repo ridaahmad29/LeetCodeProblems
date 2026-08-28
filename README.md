@@ -119,6 +119,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -194,6 +195,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0038-count-and-say) |
@@ -252,6 +254,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
