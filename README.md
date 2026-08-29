@@ -14,6 +14,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
@@ -165,6 +166,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0061-rotate-list) |
@@ -295,6 +297,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0147-insertion-sort-list) |
