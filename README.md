@@ -294,6 +294,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -525,6 +526,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -591,6 +593,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -629,6 +632,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -667,6 +671,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -695,6 +700,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
