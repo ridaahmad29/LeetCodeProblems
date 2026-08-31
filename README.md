@@ -64,6 +64,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [2073-time-needed-to-buy-tickets](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -99,6 +100,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
