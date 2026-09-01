@@ -81,6 +81,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -102,6 +103,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
