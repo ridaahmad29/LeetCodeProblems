@@ -39,6 +39,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0503-next-greater-element-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
@@ -149,6 +150,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0575-distribute-candies) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1189-maximum-number-of-balloons](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
