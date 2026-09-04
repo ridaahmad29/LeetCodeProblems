@@ -280,6 +280,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
@@ -310,6 +311,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
@@ -724,4 +726,8 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
