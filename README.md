@@ -20,6 +20,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -100,6 +101,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0036-valid-sudoku](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
@@ -312,6 +314,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
