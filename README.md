@@ -547,6 +547,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -614,6 +615,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -655,6 +657,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0437-path-sum-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -678,6 +681,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0199-binary-tree-right-side-view](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Database
 |  |
@@ -728,6 +732,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
