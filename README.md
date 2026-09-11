@@ -87,6 +87,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -179,6 +180,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3731-find-missing-elements) |
@@ -403,6 +405,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | ------- |
 | [2951-find-the-peaks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -492,6 +495,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0206-reverse-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
