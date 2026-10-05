@@ -16,6 +16,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | ------- |
 | [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
@@ -193,6 +194,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0086-partition-list) |
@@ -325,6 +327,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
@@ -512,6 +515,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
@@ -586,6 +590,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
