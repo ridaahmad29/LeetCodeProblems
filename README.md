@@ -15,6 +15,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
@@ -196,6 +197,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
