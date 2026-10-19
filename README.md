@@ -67,6 +67,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -361,6 +362,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -414,6 +416,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
