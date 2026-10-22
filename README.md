@@ -20,6 +20,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
@@ -288,6 +289,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0409-longest-palindrome) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -338,6 +340,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
