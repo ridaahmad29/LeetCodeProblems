@@ -34,6 +34,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0128-longest-consecutive-sequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
@@ -309,6 +310,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0062-unique-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0445-add-two-numbers-ii) |
@@ -541,6 +543,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0143-reorder-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
