@@ -26,6 +26,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -207,6 +208,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0031-next-permutation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0125-valid-palindrome) |
@@ -362,6 +364,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0015-3sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -815,4 +818,12 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
