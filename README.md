@@ -54,6 +54,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0682-baseball-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -355,6 +356,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0124-binary-tree-maximum-path-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
