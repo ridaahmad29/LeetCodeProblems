@@ -38,6 +38,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0150-evaluate-reverse-polish-notation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
@@ -355,6 +356,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
