@@ -63,6 +63,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -231,6 +232,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0557-reverse-words-in-a-string-iii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -381,6 +383,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0628-maximum-product-of-three-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -437,6 +440,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2540-minimum-common-value) |
 ## Enumeration
