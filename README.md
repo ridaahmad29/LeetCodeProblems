@@ -325,6 +325,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0628-maximum-product-of-three-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
@@ -361,11 +362,13 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0213-house-robber-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
