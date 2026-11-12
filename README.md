@@ -98,6 +98,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3232-find-if-digit-game-can-be-won) |
