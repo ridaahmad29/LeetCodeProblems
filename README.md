@@ -62,6 +62,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0989-add-to-array-form-of-integer](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1386-cinema-seat-allocation) |
@@ -124,6 +125,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0867-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -363,6 +365,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
