@@ -91,6 +91,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [2553-separate-the-digits-in-an-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -311,6 +312,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [1927-sum-game](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/3689-maximum-total-subarray-value-i) |
 ## Math
 |  |
