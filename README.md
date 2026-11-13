@@ -32,6 +32,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0135-candy) |
@@ -362,6 +363,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0063-unique-paths-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0213-house-robber-ii) |
