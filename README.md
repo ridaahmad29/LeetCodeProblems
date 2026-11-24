@@ -46,6 +46,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0303-range-sum-query-immutable](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0500-keyboard-row) |
@@ -370,6 +371,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | [0198-house-robber](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -799,6 +801,7 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 | ------- |
 | [0113-path-sum-ii](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -849,4 +852,12 @@ Practiced Arrays, Strings,Hashing, Linked Lists,Trees,Binary Search ,Recursion ,
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ridaahmad29/LeetCodeProblems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
